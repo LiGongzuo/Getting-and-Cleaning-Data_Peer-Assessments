@@ -1,6 +1,6 @@
 ##=================================================================================================
 ##this function created for  Peer-Assessments of the Coursera "Getting-and-Cleaning-Data"
-##created by alan.gz.li@msn.cn
+##created by alan.gz.li@msn.cn 
 ##=================================================================================================
 
 ##the function will create one R script called run_analysis.R
